@@ -1,0 +1,14 @@
+id,name,cost_eur,reach_thousands,roi_index,category
+1,National TV,80000,5000,1.42,tv
+2,National Radio,22000,1400,1.31,radio
+3,Regional Radio,10000,600,1.45,radio
+4,Google Search Ads,30000,1200,3.10,search
+5,Bing Search Ads,10000,380,2.45,search
+6,Facebook Ads,25000,2200,2.38,social_media
+7,Instagram Ads,18000,1600,2.12,social_media
+8,TikTok Ads,15000,1900,1.95,social_media
+9,Google Display Network,12000,3200,1.18,display
+10,Programmatic Display,8000,2800,1.05,display
+11,Email Newsletter,5000,180,3.48,email
+12,Digital Billboards,35000,2000,1.65,outdoor
+13,Transit Advertising,28000,1800,1.52,outdoor
