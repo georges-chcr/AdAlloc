@@ -1,4 +1,4 @@
-#include "db_writer.h"
+#include "db_writer.hh"
 
 #include <fstream>
 #include <sstream>
