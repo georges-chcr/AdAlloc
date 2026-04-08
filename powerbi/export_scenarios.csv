@@ -1,0 +1,4 @@
+label,total_budget_eur,roi_optimized,budget_allocated,residual_budget
+Conservative,50000,12578.4000244141,50000,0
+Standard,100000,20882.9996337891,100000,0
+Aggressive,150000,26695.3997802734,148000,2000

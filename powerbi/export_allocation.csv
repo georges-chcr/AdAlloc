@@ -1,0 +1,40 @@
+name,category,cost_eur,selected,selection_status,budget_used_eur,roi_obtained,scenario_label,total_budget_eur
+"National TV",tv,80000,0,Excluded,0,0.0,Conservative,50000
+"National Radio",radio,22000,0,Excluded,0,0.0,Conservative,50000
+"Regional Radio",radio,10000,0,Excluded,0,0.0,Conservative,50000
+"Google Search Ads",search,30000,0,Excluded,0,0.0,Conservative,50000
+"Bing Search Ads",search,10000,0,Excluded,0,0.0,Conservative,50000
+"Facebook Ads",social_media,25000,1,Selected,25000,5236.00048828125,Conservative,50000
+"Instagram Ads",social_media,18000,0,Excluded,0,0.0,Conservative,50000
+"TikTok Ads",social_media,15000,0,Excluded,0,0.0,Conservative,50000
+"Google Display Network",display,12000,1,Selected,12000,3775.99975585938,Conservative,50000
+"Programmatic Display",display,8000,1,Selected,8000,2939.99975585938,Conservative,50000
+"Email Newsletter",email,5000,1,Selected,5000,626.400024414063,Conservative,50000
+"Digital Billboards",outdoor,35000,0,Excluded,0,0.0,Conservative,50000
+"Transit Advertising",outdoor,28000,0,Excluded,0,0.0,Conservative,50000
+"National TV",tv,80000,0,Excluded,0,0.0,Standard,100000
+"National Radio",radio,22000,1,Selected,22000,1833.99987792969,Standard,100000
+"Regional Radio",radio,10000,0,Excluded,0,0.0,Standard,100000
+"Google Search Ads",search,30000,0,Excluded,0,0.0,Standard,100000
+"Bing Search Ads",search,10000,0,Excluded,0,0.0,Standard,100000
+"Facebook Ads",social_media,25000,1,Selected,25000,5236.00048828125,Standard,100000
+"Instagram Ads",social_media,18000,1,Selected,18000,3391.99975585938,Standard,100000
+"TikTok Ads",social_media,15000,1,Selected,15000,3705.0,Standard,100000
+"Google Display Network",display,12000,1,Selected,12000,3775.99975585938,Standard,100000
+"Programmatic Display",display,8000,1,Selected,8000,2939.99975585938,Standard,100000
+"Email Newsletter",email,5000,0,Excluded,0,0.0,Standard,100000
+"Digital Billboards",outdoor,35000,0,Excluded,0,0.0,Standard,100000
+"Transit Advertising",outdoor,28000,0,Excluded,0,0.0,Standard,100000
+"National TV",tv,80000,0,Excluded,0,0.0,Aggressive,150000
+"National Radio",radio,22000,0,Excluded,0,0.0,Aggressive,150000
+"Regional Radio",radio,10000,0,Excluded,0,0.0,Aggressive,150000
+"Google Search Ads",search,30000,1,Selected,30000,3720.0,Aggressive,150000
+"Bing Search Ads",search,10000,0,Excluded,0,0.0,Aggressive,150000
+"Facebook Ads",social_media,25000,1,Selected,25000,5236.00048828125,Aggressive,150000
+"Instagram Ads",social_media,18000,1,Selected,18000,3391.99975585938,Aggressive,150000
+"TikTok Ads",social_media,15000,1,Selected,15000,3705.0,Aggressive,150000
+"Google Display Network",display,12000,1,Selected,12000,3775.99975585938,Aggressive,150000
+"Programmatic Display",display,8000,1,Selected,8000,2939.99975585938,Aggressive,150000
+"Email Newsletter",email,5000,1,Selected,5000,626.400024414063,Aggressive,150000
+"Digital Billboards",outdoor,35000,1,Selected,35000,3300.0,Aggressive,150000
+"Transit Advertising",outdoor,28000,0,Excluded,0,0.0,Aggressive,150000
